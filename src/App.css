@@ -1,0 +1,62 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.from{
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+   
+    
+    
+}
+.position{
+    margin-top:100px ;
+    margin-left: 100px;
+    
+}
+.text{
+    margin-right: 60px;
+    width: 400px;
+    height:40px;
+    text-indent: 60px;
+    color: blue;
+    font-size:40px ;
+}
+
+.submit{
+    margin-top: 45px; 
+    width: 404px;
+    height: 40px;
+    font-size: 30px;
+    color: white;
+    background-color: orange;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+    
+.border ,tr,th,td{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    height: 40px;
+}
+
+     
+
+.button{
+    width: 50px;
+    height: 20px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin: none;
+    
+}
+
+
